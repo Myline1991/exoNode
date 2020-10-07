@@ -1,0 +1,11 @@
+body {
+    background: url("../img/landscape.jpg");
+    background-size: cover;
+}
+.col-6.mx-auto {
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    border-radius: .5rem;
+    margin-top: 5rem;
+    padding-bottom: 1rem;
+}
